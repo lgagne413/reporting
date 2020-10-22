@@ -1,0 +1,14 @@
+
+.spyproject/config/defaults/defaults-encoding-0.2.0.ini
+.spyproject/config/defaults/defaults-codestyle-0.2.0.ini
+.spyproject/config/codestyle.ini
+.spyproject/config/defaults/defaults-vcs-0.2.0.ini
+.spyproject/config/defaults/defaults-workspace-0.2.0.ini
+.spyproject/config/encoding.ini
+.spyproject/config/vcs.ini
+.spyproject/config/workspace.ini
+__pycache__/__init__.cpython-37.pyc
+__pycache__/decorators.cpython-37.pyc
+__pycache__/errors.cpython-37.pyc
+__pycache__/templates.cpython-37.pyc
+future/__pycache__/progress.cpython-37.pyc
