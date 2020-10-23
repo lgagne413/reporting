@@ -12,3 +12,6 @@ __pycache__/decorators.cpython-37.pyc
 __pycache__/errors.cpython-37.pyc
 __pycache__/templates.cpython-37.pyc
 future/__pycache__/progress.cpython-37.pyc
+.spyproject/config/backups/encoding.ini.bak
+.spyproject/config/backups/vcs.ini.bak
+.spyproject/config/backups/workspace.ini.bak
